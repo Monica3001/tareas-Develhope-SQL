@@ -1,3 +1,3 @@
-GRANT SELECT UPDATE on BOOKS TO 'martin@localhost'
+GRANT SELECT UPDATE ON BOOKS TO 'martin@localhost'
 
-REVOKE UPDATE on BOOKS TO 'martin@localhost'
+REVOKE UPDATE ON BOOKS TO 'martin@localhost'
